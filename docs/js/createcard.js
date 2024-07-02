@@ -1,4 +1,4 @@
-const BASE_URL = 'https://anthony-zhou.github.io/scannable-contact-card/download';
+const BASE_URL = 'https://trickydavo.github.io/scannable-contact-card/download';
 const ContactBox = document.getElementById('form-box');
 const QRCodeBox = document.getElementById('qrcode-box');
 
